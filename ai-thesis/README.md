@@ -1,35 +1,44 @@
 # AI Product Thesis: Inclusion, Clarity, and Thoughtful Application
 
+> Quick Take: A personal framework for building AI products that prioritize clarity, learning, and inclusion, especially for users who aren't always centered in tech spaces.
+
 ## Overview
 
-This thesis captures my evolving beliefs as a product leader working at the intersection of AI, usability, and impact. It’s not a manifesto — it’s a working foundation that guides how I evaluate, shape, and challenge the use of AI in real-world products.
+This working thesis outlines how I evaluate and shape AI features in real-world products. It is grounded in experience rather than hype, and guided by a commitment to usability, equity, and thoughtful application.
+
+## About Me
+
+I’m a product leader with over a decade of experience spanning enterprise SaaS, mission-driven organizations, and user education. My focus is on building tools that support real people, not abstract personas, especially those who are often left out of emerging technologies.
 
 ## Core Beliefs
 
-- AI should not be a default solution. It should be chosen deliberately, when its unique capabilities provide clear user value.
-- Just because something can be personalized doesn't mean it should be. Predictability, clarity, and trust are often more valuable than novelty.
-- User education is essential. Features built with AI should assume a learning curve and offer ways for users to grow alongside the tool.
-- Marginalized users are often excluded from AI development not by intent, but by omission. If we don’t reach out to them during discovery, we risk structurally excluding them from the product itself.
-- The best AI features do more than respond — they empower. The goal isn’t just faster; it’s better outcomes and more human alignment.
+- **AI should be used intentionally, not automatically.** It is a powerful tool, but not always the right one. Some problems are best solved with consistent, familiar patterns, especially where trust and clarity are essential.
+- **Users need predictability as much as personalization.** In many cases, reliability and transparency are more empowering than dynamic or novel experiences.
+- **AI adoption requires education.** Users can only ask good questions and build trust if they understand how the system works at a basic level. That makes onboarding and guidance essential, not optional.
+- **Exclusion often happens through omission.** If we don’t seek out the needs of marginalized users during discovery, we risk embedding their absence into the logic of the product.
+- **AI should support better human outcomes.** It is not about speed or novelty. It is about building tools that help people make more confident and inclusive decisions.
+- **Sustainability matters.** AI consumes energy, attention, and human capacity. If it does not serve a clear purpose, it should not be used.
 
-## Origins
+## Context and Development
 
-This thesis emerged as I worked through:
-- A case study in *not* implementing an AI form builder because it created too much ambiguity for a conservative user base
-- A Bolt-based learning project that grounded me in core HTML, CSS, and JavaScript
-- Deep conversations about trust, inclusion, and the limits of automation in systems that serve real people
+These beliefs were shaped through direct product work:
+- Collaborating with the Innovation team on an AI-powered form builder and helping guide the decision not to ship due to user clarity risks.
+- Completing a Bolt-based AI website to strengthen my technical fluency and better understand low-code prototyping.
+- Leading product in mission-driven organizations where trust, education, and user readiness mattered just as much as speed or innovation.
 
-Each of these built on a decade of product work across enterprise SaaS, mission-driven orgs, and user education efforts. Together, they challenged me to move beyond buzzwords and toward purpose.
+These experiences reinforced my instinct that why we build is just as important as how we build.
 
-## Example Applications
+## Applications in Practice
 
-- **Inclusion through code**: If your AI feature is built with language models or logic trained only on dominant user behaviors, who gets left behind?
-- **Discovery framing**: Ask users not just what they want AI to do — ask what they're afraid it will do wrong.
-- **Release pacing**: Introduce AI features in safe, constrained areas first (e.g. filters, charts), before expanding to core workflows.
+- **Inclusive discovery:** AI features must be tested with users across race, language, income, and ability, not just with assumed power users.
+- **Designing for predictability:** Not every workflow benefits from variation. AI should not disrupt reliability unless it creates meaningful value.
+- **Introducing AI gradually:** Starting with low-risk features like filters or summaries helps build trust before deploying AI in high-stakes areas.
+- **Education as a design requirement:** If users do not understand AI logic, they may misinterpret results or disengage entirely. Flexible guidance systems, such as tooltips, examples, and layered help, are especially vital for users who have not historically been invited into technical spaces.
 
-## Closing Thought
+## Final Thought
 
-AI is not magic. It’s logic at scale, shaped by human intent and bias. That means it carries both enormous potential and enormous risk. I believe the future of product leadership lies not in how fast we ship AI, but in how bravely we ask who it’s for — and who might be left out if we get it wrong.
+AI is not neutral. It reflects the decisions of those who build it. That includes who we research with, what we explain, and whether users walk away feeling empowered. When we give people real agency through exploration, education, and choice, we build tools that do more than function. We build tools that belong.
 
 ---
+
 [Back to main portfolio](../README.md)
