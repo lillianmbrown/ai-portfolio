@@ -6,13 +6,13 @@
 
 At SafetyChain, I collaborated with the Innovation team as they developed an AI-powered form builder. The concept was compelling: users could generate digital forms by uploading images or writing simple prompts, which would then be translated into structured, functional forms.
 
-The tool was especially promising for first-time builds — fast, intuitive, and creatively flexible. But as the team gathered feedback, we saw that the flexibility became a liability during editing. The number of directions a prompt could take a user created too many paths and introduced ambiguity where precision was needed.
+The tool was especially promising for first-time builds. It was fast, intuitive, and flexible in ways that sparked early excitement. But as the team gathered feedback, we saw that the flexibility became a liability during editing. The number of directions a prompt could take a user created too many paths and introduced ambiguity where precision was needed.
 
 ## What We Learned
 
 - Initial creation worked well, but editing felt unpredictable. Users struggled to modify forms consistently, unsure of how prompts would behave across sessions.
 - The wide open nature of prompts added risk. In an industry where accuracy and repeatability matter more than novelty, this flexibility worked against user confidence.
-- Adoption readiness matters. Many of our users were still gaining comfort with standard software workflows. Jumping into a prompt-based paradigm felt too steep.
+- Adoption readiness isn’t guaranteed. Many of our users were still building comfort with standard software workflows, and this leap felt too fast.
 
 ## The Decision
 
