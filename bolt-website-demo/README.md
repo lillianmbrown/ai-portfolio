@@ -2,7 +2,11 @@
 
 ## Overview
 
-This project is a lightweight interactive website I built using [Bolt](https://www.bolt.fun). It serves as a self-guided learning tool to explore the fundamentals of HTML, CSS, and JavaScript. As a product leader, my goal was to gain confidence using low-code tools and strengthen my ability to coach product teams on experimentation and technical fluency.
+
+This project is a lightweight interactive website I built using [Bolt](https://www.bolt.fun). It serves as a self-guided learning tool to revisit the fundamentals of HTML, CSS, and JavaScript — not just for curiosity, but as part of my commitment to staying technically fluent as a product leader.
+
+I created it to deepen my understanding of low-code tools, model a learning mindset, and strengthen my ability to coach product managers through hands-on experimentation. Knowing the limits and opportunities of tools like Bolt helps me support my teams with clarity and confidence.
+
 
 ## Purpose
 
@@ -30,9 +34,12 @@ _Hands-on, interactive structure designed to reinforce key concepts._
 
 ## Reflections
 
-This project grounded my understanding of how low-code platforms like Bolt function under the hood. It also gave me greater confidence in supporting and coaching others to prototype and experiment — whether they're engineers, product managers, or new learners.
+This project grounded my understanding of how low-code platforms like Bolt function under the hood, and gave me greater confidence in supporting and coaching others to prototype and experiment.
 
-The ability to work iteratively, share progress visually, and tie it to product thinking is a key skill I aim to cultivate on any team I lead.
+As a product leader, I believe strong coaching starts with doing. Just like I don't coach youth athletes on batting technique if I know I have bad form myself, I also don't want to coach product managers on prototyping unless I understand the tools firsthand. This hands-on experience helps me identify where I can lead directly and where to bring in engineering or design leaders to elevate the work.
+
+By stepping into the learner role, I’m better prepared to guide others, ask sharper questions, and create a product culture that values growth, experimentation, and clarity — especially when navigating emerging tech like AI.
+
 
 ## Tech Stack
 
