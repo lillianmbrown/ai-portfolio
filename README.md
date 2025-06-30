@@ -12,8 +12,8 @@ This portfolio is both a playground and a professional statement. I created it t
 
 ## What's Here
 
--- ✅ [AI Form Builder Case Study](./form-builder-case-study/README.md) – when not to use AI and how to guide rollout responsibly 
-- 🔨 **Prompt-to-Component Demo** – Bolt-built prototype to test UI generation from text  
+- ✅ [AI Form Builder Case Study](./form-builder-case-study/README.md) – when not to use AI and how to guide rollout responsibly 
+- 🧪 [Bolt Website Demo](./bolt-website-demo/README.md) – exploring low-code tools and technical learning through hands-on prototyping
 - 💡 More projects to come — including data education tools and inclusive onboarding experiments
 
 ## Tech Stack
