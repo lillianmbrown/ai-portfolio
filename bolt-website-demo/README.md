@@ -42,6 +42,9 @@ The ability to work iteratively, share progress visually, and tie it to product 
 - Hosting: Not currently deployed due to build framework limitations
 
 ## Status
+![Bolt Demo Homepage](https://github.com/user-attachments/assets/89656a7a-d57c-4971-a6e3-8b054d9f0493)
+![Bolt Demo Semantic HTML](https://github.com![Bolt Demo Learning Module](https://github.com/user-attachments/assets/78007a74-8845-455d-aea2-fa09231509e6)
+/user-attachments/assets/6e85f2c1-7acc-47bb-b288-2c9a94450ca3)
 
 This project is complete and shared here as a learning artifact and product story. It is not actively being maintained or deployed.
 
