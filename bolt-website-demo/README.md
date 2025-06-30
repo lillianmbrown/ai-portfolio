@@ -14,8 +14,8 @@ My work at SafetyChain involved deeply technical collaboration, but I wanted to 
 
 ## Demo
 
-📽️ [Watch a 1-minute walkthrough](https://your-video-link.com)  
-(Swap in your Loom/YouTube/Drive link!)
+📽️ [Watch a 1-minute walkthrough]([https://your-video-link.com)](https://www.loom.com/share/827f4ef21c5847aab0ab054f8bb02191?sid=18c2dc76-b833-47d0-a0f0-da93a6c5e282)  
+
 
 ### Screenshots
 
