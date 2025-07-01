@@ -1,21 +1,24 @@
 # AI Portfolio – Lily Brown
 
-I built this portfolio as a space to explore emerging tools, test ideas, and ask better questions about AI before I make product decisions that affect real people. I use this space to surface blind spots early, deepen my technical understanding, and ensure the tools I help build don’t leave anyone behind.
+I created this portfolio to explore emerging AI tools, test ideas, and sharpen my product thinking in a rapidly evolving space. It’s a space for structured learning and reflection that helps me ask better questions, uncover blind spots early, and make product decisions that prioritize clarity, trust, and inclusion.
 
 ## Purpose
 
-This portfolio is both a playground and a professional statement. I created it to:
+This is a working portfolio designed to demonstrate how I think, lead, and build when navigating emerging technologies like AI. I created it to:
 - Explore how AI tools can solve real user problems
 - Test no-code/low-code platforms like Bolt and Loveable
 - Share case studies and product thinking behind each experiment
 - Demonstrate my hands-on curiosity and leadership as a product builder
 
-## What's Here
+## How to Navigate This Portfolio
 
-- ✅ [AI Form Builder Case Study](./form-builder-case-study/README.md) – when not to use AI and how to guide rollout responsibly 
-- 🧪 [Bolt Website Demo](./bolt-website-demo/README.md) – exploring low-code tools and technical learning through hands-on prototyping
-- 🧠 [AI Product Thesis](./ai-thesis/README.md) – guiding principles for inclusive, thoughtful AI product leadership
-- 💡 More projects to come
+You can think of this portfolio as a guided journey through my applied learning in AI product work. Start with a case study highlighting a specific product decision, continue with a hands-on technical project that explores building with AI, and finish with my personal thesis that outlines the values guiding those decisions.
+
+- **[Form Builder Case Study](./form-builder-case-study/README.md):** A real-world example of choosing not to ship an AI feature due to user impact and clarity concerns.
+- **[Bolt Website Demo](./bolt-website-demo/README.md):** A hands-on learning project using low-code tools to strengthen technical fluency and coaching.
+- **[AI Product Thesis](./ai-product-thesis/README.md):** A values-driven framework for when, why, and how to build AI responsibly and inclusively.
+
+This space will continue to grow as I experiment, reflect, and build — always with the user in mind.
 
 ## Tech Stack
 
