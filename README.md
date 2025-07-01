@@ -20,11 +20,14 @@ You can think of this portfolio as a guided journey through my applied learning 
 
 This space will continue to grow as I experiment, reflect, and build — always with the user in mind.
 
-## Tech Stack
+## Tools & Tech Stack
 
-- Built with: [Bolt](https://www.bolt.fun), exported as static site
-- Hosting: [Vercel](https://vercel.com) or Netlify (to be finalized)
-- Style: Lightweight HTML/CSS with a focus on content and accessibility
+- **Built with:** Bolt, used to create a lightweight interactive site and exported as a static React/Vite app  
+- **Languages used:** HTML, CSS, JavaScript  
+- **AI Collaboration:** Content developed with ChatGPT and reviewed with Gemini  
+- **Version Control:** GitHub  
+- **Hosting:** Netlify or Vercel (to be finalized)  
+- **Focus:** Accessibility-first design with simple structure and content clarity
 
 ## About Me
 
