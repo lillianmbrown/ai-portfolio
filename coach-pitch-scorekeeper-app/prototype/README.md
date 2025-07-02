@@ -27,15 +27,17 @@ These constraints made it difficult to use conventional apps during fast-paced g
 ### Game Setup  
 Set up team names and lineup order for each team. Players must bat in order; if a player misses their turn, it counts as an out.  
 ![Team Set-Up](https://github.com/user-attachments/assets/0cee0e23-3a91-4d53-9448-cb8f47e6f77a)
--Up.png
+
 
 ### Game View: Overview  
 Track score by inning and view batting order, outs, and runs remaining in real time.  
-![Game Overview](./Game%20Overview.png)
+![Game Overview](https://github.com/user-attachments/assets/2cdc23d2-04b9-4367-97de-91ae5494d8ad)
+
 
 ### Game View: In Progress  
 Quickly mark pitch outcomes, advance runners, and record outs without deep menus or page switches.  
-![Pitch and Run Counts](./Pitch%20and%20Run%20Counts.png)
+![Pitch and Run Counts](https://github.com/user-attachments/assets/42ffa78c-ce79-43c9-b5d6-54e80b18e9a6)
+
 
 ---
 
