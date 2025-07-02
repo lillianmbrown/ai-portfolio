@@ -26,7 +26,8 @@ These constraints made it difficult to use conventional apps during fast-paced g
 
 ### Game Setup  
 Set up team names and lineup order for each team. Players must bat in order; if a player misses their turn, it counts as an out.  
-![Team Setup](./Team%20Set-Up.png)
+![Team Set-Up](https://github.com/user-attachments/assets/0cee0e23-3a91-4d53-9448-cb8f47e6f77a)
+-Up.png
 
 ### Game View: Overview  
 Track score by inning and view batting order, outs, and runs remaining in real time.  
