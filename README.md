@@ -17,6 +17,8 @@ You can think of this portfolio as a guided journey through my applied learning 
 - **[Form Builder Case Study](./form-builder-case-study/README.md):** A real-world example of choosing not to ship an AI feature due to user impact and clarity concerns.
 - **[Bolt Website Demo](./bolt-website-demo/README.md):** A hands-on learning project using low-code tools to strengthen technical fluency and coaching.
 - **[AI Product Thesis](./ai-product-thesis/README.md):** A values-driven framework for when, why, and how to build AI responsibly and inclusively.
+- **[Coach Pitch Scorekeeping App](./coach-pitch-scorekeeper/README.md):**A mobile-friendly scoring app designed for the unique pace and rules of youth Coach Pitch softball.
+
 
 This space will continue to grow as I experiment, reflect, and build — always with the user in mind.
 
