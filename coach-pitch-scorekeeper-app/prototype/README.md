@@ -87,4 +87,4 @@ This field test validated the overall structure but also revealed clear areas fo
 
 ---
 
-[Back to main portfolio](../README.md)
+[← Back to Main Portfolio](https://github.com/lillianmbrown/ai-portfolio)
