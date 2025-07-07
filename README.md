@@ -18,6 +18,7 @@ You can think of this portfolio as a guided journey through my applied learning 
 - **[Bolt Website Demo](./bolt-website-demo/README.md):** A hands-on learning project using low-code tools to strengthen technical fluency and coaching.
 - **[AI Product Thesis](./ai-product-thesis/README.md):** A values-driven framework for when, why, and how to build AI responsibly and inclusively.
 - **[Coach Pitch Scorekeeping App](./coach-pitch-scorekeeper-app/prototype):** A mobile-friendly scoring app designed for the unique pace and rules of youth Coach Pitch softball.
+    - **July 2025 Update:** Version 0.2 is live after real-world testing revealed key usability gaps
 
 
 This space will continue to grow as I experiment, reflect, and build — always with the user in mind.
