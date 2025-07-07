@@ -74,6 +74,25 @@ This field test validated the overall structure but also revealed clear areas fo
 ![Pitch Count 1.2](https://github.com/user-attachments/assets/13018818-4b5e-4c8c-83d8-221cb948070b)
 
 
+## Version 0.3 – In Progress
+
+After testing the app in four live coach pitch games, I identified key areas for improvement. This version focuses on fixing lineup logic and introducing hands-free interaction to better support real-world use.
+
+### Bug Fixes
+
+- **Lineup progression issue:** Fixing a bug where advancing runners resets the batter name to "Player 2" or "Player 3" and halts proper rotation through the lineup.
+
+### Feature in Development
+
+- **Voice command input:** Adding the ability to advance runners or log events using voice commands. This feature is being explored to streamline use in fast-paced game environments.
+
+### Goals
+
+- Improve reliability of batter order tracking  
+- Make it easier to update runner positions quickly  
+- Maintain a low-distraction, mobile-first interface  
+
+This version is currently in development and will evolve based on continued field testing and coaching feedback.
 
 
 ---
