@@ -1,16 +1,19 @@
-# AI Portfolio – Lily Brown
+# Hi, I’m Lily 
 
-I created this portfolio to explore emerging AI tools, test ideas, and sharpen my product thinking in a rapidly evolving space. It’s a space for structured learning and reflection that helps me ask better questions, uncover blind spots early, and make product decisions that prioritize clarity, trust, and inclusion.
+I’m a mission-driven product leader focused on inclusive design, AI readiness, and building intuitive tools that empower real users.
 
-## Purpose
+# You can now find my full portfolio, case studies, and product philosophy here:  
+# [lilybrown.framer.website](https://lilybrown.framer.website)
 
-This is a working portfolio designed to demonstrate how I think, lead, and build when navigating emerging technologies like AI. I created it to:
-- Explore how AI tools can solve real user problems
-- Test no-code/low-code platforms like Bolt and Loveable
-- Share case studies and product thinking behind each experiment
-- Demonstrate my hands-on curiosity and leadership as a product builder
+This GitHub contains supporting projects and code used in my product work, including:
+- Coach Pitch Scorekeeper App
+- AI Product Thesis
+- Interactive Code Teaching Platform (Bolt Demo)
 
-## How to Navigate This Portfolio
+Want to connect? [Email me](lillianmariebrown@gmail.com) or reach out on [LinkedIn](https://linkedin.com/in/lily-m-brown)
+
+
+## How to Navigate This Portfolio in GitHub
 
 You can think of this portfolio as a guided journey through my applied learning in AI product work. Start with a case study highlighting a specific product decision, continue with a hands-on technical project that explores building with AI, and finish with my personal thesis that outlines the values guiding those decisions.
 
@@ -32,11 +35,3 @@ This space will continue to grow as I experiment, reflect, and build — always 
 - **Hosting:** Netlify or Vercel (to be finalized)  
 - **Focus:** Accessibility-first design with simple structure and content clarity
 
-## About Me
-
-I'm a product leader with a track record in SaaS, systems design, and mission-driven organizations. My work blends innovation with human context, and I’m especially interested in building AI tools that empower the people who use them, while staying mindful of how easily exclusion can happen without intent.
-
-Outside of work, I’m a mom of two, a Girl Scout troop leader, and a youth sports coach. Whether I’m mentoring young Scouts or collaborating with executives, I care deeply about creating inclusive systems that help individuals and communities grow with confidence.
-
-
-Learn more at [lillianmbrown.github.io/ai-portfolio](https://lillianmbrown.github.io/ai-portfolio) (domain coming soon).
